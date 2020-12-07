@@ -1,4 +1,4 @@
-<p align="center"><a href="https://github.com/nastyox/Rando.js#nastyox"><img src="https://camo.githubusercontent.com/bd40e292d43464dc2d4cacd936d43f30fc8a1a5676c50b21e2e9d13bf203bdb1/687474703a2f2f72616e646f6a732e636f6d2f696d616765732f736861706553686966746572477261792e676966" alt="Gray shape shifter" height="60" data-canonical-src="http://randojs.com/images/shapeShifterGray.gif" style="max-width:100%;"></a></p>
+<p align="center"><a href="#><img src="https://drive.google.com/file/d/1o903aHAAFPDCXBqJKGTP7EYTlJ0tV4ZV/view?usp=sharing" alt="bell" height="60"style="max-width:100%;"></a></p>
 <h1 align="center">Simple Notes</h1>
 <p align="center">Simple. Notes. Vue</p>
 <br>
