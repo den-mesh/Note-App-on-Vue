@@ -5,14 +5,7 @@
 <br>
 <h2>😏 Why do you need another Notes app?</h2>
 <p>Everything is very simple. There <strong>is nothing superfluous</strong> in this application. Only you. Only simple work with notes. Only Vue.js</p>
-
+<br>
 <h2>⚡ Fast implementation</h2>
-```
-yarn install
-```
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
-
+<h3>Step 1</h3>
