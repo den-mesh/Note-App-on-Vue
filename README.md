@@ -1,4 +1,4 @@
-<p align="center"><a href="#><img src="https://drive.google.com/file/d/1o903aHAAFPDCXBqJKGTP7EYTlJ0tV4ZV/view?usp=sharing" alt="bell" height="60"style="max-width:100%;"></a></p>
+<p align="center"><img src="https://images.universe.com/3ec98038-5c4f-4c14-9f38-3975ea9027af/-/progressive/yes/-/inline/yes/" alt="bell" height="60"style="max-width:100%;"></p>
 <h1 align="center">Simple Notes</h1>
 <p align="center">Simple. Notes. Vue</p>
 <br>
